@@ -1,4 +1,4 @@
-name: Split Tests
+name: Split Tests - suharshan
 author: chaosaffe@users.noreply.github.com
 description: Splits test suite for parallelization with equal time
 inputs:
